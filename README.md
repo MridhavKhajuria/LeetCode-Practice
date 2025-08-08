@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
@@ -14,5 +15,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
