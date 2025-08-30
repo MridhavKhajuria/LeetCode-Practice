@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0047-permutations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 ## String
 |  |
