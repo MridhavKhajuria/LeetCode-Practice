@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0039-combination-sum) |
+| [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -26,5 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
