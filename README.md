@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0724-find-pivot-index](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0724-find-pivot-index) |
+| [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
