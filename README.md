@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0046-permutations) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Depth-First Search
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
