@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
