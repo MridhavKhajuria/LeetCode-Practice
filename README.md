@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0135-candy) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
