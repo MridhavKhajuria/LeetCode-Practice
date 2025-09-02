@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
