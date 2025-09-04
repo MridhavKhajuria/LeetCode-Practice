@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
