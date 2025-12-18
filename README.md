@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
