@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0090-subsets-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
