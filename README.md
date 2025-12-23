@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Depth-First Search
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
