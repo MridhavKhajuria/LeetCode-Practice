@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -223,5 +225,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
