@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0455-assign-cookies) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
