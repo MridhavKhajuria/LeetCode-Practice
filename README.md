@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
