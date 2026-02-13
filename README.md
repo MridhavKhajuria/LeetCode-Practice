@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,11 +285,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
