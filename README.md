@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
+| [0997-find-the-town-judge](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0997-find-the-town-judge](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [0997-find-the-town-judge](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
