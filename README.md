@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MridhavKhajuria/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
