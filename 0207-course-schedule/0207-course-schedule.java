@@ -1,37 +1,25 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0; i<numCourses; i++) adj.add(new ArrayList<>());
+
+        for(int[] p : prerequisites) adj.get(p[1]).add(p[0]);
+
+        int vis[] = new int[numCourses];
+        
         for(int i = 0; i<numCourses; i++){
-            adj.add(new ArrayList<>());
-        }
-
-        for(int[] edge : prerequisites){
-            adj.get(edge[1]).add(edge[0]);
-        }
-
-        boolean[] vis = new boolean[numCourses];
-        boolean[] path = new boolean[numCourses];
-
-        for(int i = 0; i<numCourses; i++){
-            if(!vis[i]){
-                if(dfs(i, adj, vis, path)) return false;
-            }
+            if(vis[i] == 0) if(topo(i, adj, vis)) return false;
         }
         return true;
     }
+    private boolean topo(int node, List<List<Integer>> adj, int[] vis){
+        vis[node] = 1;
 
-    private boolean dfs(int curr,List<List<Integer>> adj, boolean[] vis, boolean[] path){
-        vis[curr] = true;
-        path[curr] = true;
-
-        for(int next : adj.get(curr)){
-            if(!vis[next]){
-                if(dfs(next, adj, vis, path)) return true;
-            }
-            else if(path[next]) return true;
+        for(int k : adj.get(node)){
+            if(vis[k] == 1) return true;
+            if(vis[k] == 0) if(topo(k, adj, vis)) return true;
         }
-
-        path[curr] = false;
+        vis[node] = 2;
         return false;
     }
 }
